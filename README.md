@@ -2,7 +2,8 @@
 
 Welcome to the official repository of **Abms Studies** an Android app designed to enrich the college experience for students. This app is a one-stop solution that integrates several key features aimed at facilitating academic and social engagement on campus.
 
-![HomeScreenCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/c8330cd4-e879-4034-aa7c-b97ac0196059)    ![LoginCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/87e27236-956f-4b7c-ab44-5d2cb8f986fd)
+![HomeScreenCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/c8330cd4-e879-4034-aa7c-b97ac0196059)    ![LoginCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/87e27236-956f-4b7c-ab44-5d2cb8f986fd)   ![LoginPageCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/24bcbdf1-af86-4986-b9ab-6c90788bbb64)
+
 
 ## Features:
 
