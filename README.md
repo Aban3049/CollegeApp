@@ -13,10 +13,15 @@ Welcome to the official repository of **Abms Studies** an Android app designed t
 - **Past Paper System**: Prepare for exams with an extensive collection of past papers and exam questions from previous years.
 
 - **Interactive Chatroom**: Connect with peers, discuss academic topics, and collaborate on projects in real-time.
+  
+![chatRoomCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/795f4df1-873c-4a62-9000-488b7bcd1f3e)
+
 
 - **Notice Board**: Stay informed with the latest campus notices, updates, and announcements promptly.
 
 - **Gallery**: Share your college moments, capture memories, and explore the campus life through photos.
+  
+![GalleryCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/f2afbedf-aa61-4ad9-94b7-73934573efff)
 
 - **Buy/Sell Marketplace**: A secure platform for students to buy and sell items within the campus community.
 
