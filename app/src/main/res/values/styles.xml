@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ImageStyle_circle">
+        <item name="cornerSize">50%</item>
+        <item name="cornerFamily">rounded</item>
+
+    </style>
+
+    <style name="ImageStyle_CornerRounded">
+        <item name="cornerSize">10dp</item>
+        <item name="cornerFamily">rounded</item>
+
+    </style>
+
+    <!-- Theme For Transparent background of dialog -->
+
+    <style name="CustomDialog" parent="Theme.MaterialComponents.Dialog">
+
+<!--        <item name="android:windowIsTranslucent">true</item>-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+
+    </style>
+
+    <!-- For customTextInputLayout  Define other properties if needed -->
+    <style name="CustomTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <!-- Custom background color that does not change with theme -->
+        <item name="android:background">@color/white</item>
+        <!-- Define other properties if needed -->
+    </style>
+
+
+
+
+</resources>
