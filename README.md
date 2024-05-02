@@ -2,7 +2,7 @@
 
 Welcome to the official repository of **Abms Studies** an Android app designed to enrich the college experience for students. This app is a one-stop solution that integrates several key features aimed at facilitating academic and social engagement on campus.
 
-![HomeScreenCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/c8330cd4-e879-4034-aa7c-b97ac0196059)    ![LoginCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/87e27236-956f-4b7c-ab44-5d2cb8f986fd)   ![LoginPageCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/24bcbdf1-af86-4986-b9ab-6c90788bbb64)   ![AccountCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/15258c0c-9e62-40b7-8955-86d40df98dd0)
+![HomeScreenCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/c8330cd4-e879-4034-aa7c-b97ac0196059)    ![LoginCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/87e27236-956f-4b7c-ab44-5d2cb8f986fd)   ![LoginPageCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/24bcbdf1-af86-4986-b9ab-6c90788bbb64)  
 
 
 
@@ -21,6 +21,8 @@ Welcome to the official repository of **Abms Studies** an Android app designed t
 - **Buy/Sell Marketplace**: A secure platform for students to buy and sell items within the campus community.
 
 - **AI Assistant**: Get help with various academic tasks, from solving complex problems to getting study tips, all powered by an advanced AI system.
+  
+  ![AiCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/bbe20265-d679-49e0-abca-a64c3a394f8c)   ![AccountCollegeApp](https://github.com/Aban3049/CollegeApp/assets/157634467/15258c0c-9e62-40b7-8955-86d40df98dd0)
 
 ## Aim:
 
